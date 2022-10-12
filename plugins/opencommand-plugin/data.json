@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "token": "6ae280bb55dab195dc768bd32e420ecc3e88f7985af3e0119f13bb7838e64993",
+      "playerId": 100,
+      "tokenExpireTime": "Oct 14, 2022, 5:35:09 AM"
+    },
+    {
+      "token": "2ffcee02c567d0277602014259bdc4240c466572213d3213cf3387079073b707",
+      "playerId": 100,
+      "tokenExpireTime": "Oct 14, 2022, 5:35:57 AM"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+2022-10-12T05:19:47Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-CA.json, falling back to: en-US.json
+2022-10-12T05:19:48Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-12T05:19:48Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-10-12T05:20:16Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-10-12T05:20:16Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-12T05:20:16Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-10-12T05:20:16Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.1.0
+2022-10-12T05:20:16Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.2-dev-GIT_NOT_FOUND
+2022-10-12T05:20:18Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-10-12T05:20:18Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-10-12T05:20:18Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-10-12T05:20:18Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-10-12T05:21:04Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
+2022-10-12T05:21:05Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-10-12T05:21:05Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10009.
+2022-10-12T05:21:06Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-12T05:21:06Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-10-12T05:21:06Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-12T05:21:06Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-12T05:21:36Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-CA.json, falling back to: en-US.json
+2022-10-12T05:21:37Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-12T05:21:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-10-12T05:21:38Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-10-12T05:21:38Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-12T05:21:38Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-10-12T05:21:38Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.1.0
+2022-10-12T05:21:38Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.2-dev-GIT_NOT_FOUND
+2022-10-12T05:21:39Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-10-12T05:21:40Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-10-12T05:21:40Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-10-12T05:21:40Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-10-12T05:21:40Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-10-12T05:21:40Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Enabled
+2022-10-12T05:21:40Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10009.
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-12T05:22:02Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-12T05:22:47Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:55411
+2022-10-12T05:22:54Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-10-12T05:23:50Z <INFO:com.github.jie65535.opencommand.OpenCommandHandler> Player 100 has passed the verification, ip: 127.0.0.1
+2022-10-12T05:28:42Z <INFO:emu.grasscutter.command.CommandHandler> Subsequent commands will target @100 (joemama) by default.
+2022-10-12T05:28:42Z <INFO:emu.grasscutter.command.CommandHandler> @100 (joemama) is online. Some commands may require an offline target.
+2022-10-12T05:28:46Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 100033 to 100.
+2022-10-12T05:29:13Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 112032 to 100.
+2022-10-12T05:29:50Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 112032 to 100.
+2022-10-12T05:29:55Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 112033 to 100.
+2022-10-12T05:29:56Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 112034 to 100.
+2022-10-12T05:29:59Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 112035 to 100.
+2022-10-12T05:30:21Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 104121 to 100.
+2022-10-12T05:30:24Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 104122 to 100.
+2022-10-12T05:30:26Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 104123 to 100.
+2022-10-12T05:30:28Z <INFO:emu.grasscutter.command.CommandHandler> Given 9999 of 104124 to 100.
+2022-10-12T05:31:01Z <INFO:emu.grasscutter.command.CommandHandler> Given 999 of 113035 to 100.
+2022-10-12T05:35:57Z <INFO:com.github.jie65535.opencommand.OpenCommandHandler> Player 100 has passed the verification, ip: 127.0.0.1
+2022-10-12T05:42:02Z <INFO:emu.grasscutter.command.CommandHandler> Killing 1 monsters in scene 9.
+2022-10-12T05:49:18Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:55411
+2022-10-12T05:50:46Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-CA.json, falling back to: en-US.json
+2022-10-12T05:50:47Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-12T05:50:47Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-10-12T05:50:56Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-10-12T05:50:56Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-12T05:50:56Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-10-12T05:50:56Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.1.0
+2022-10-12T05:50:56Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.2-dev-GIT_NOT_FOUND
+2022-10-12T05:50:57Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-10-12T05:50:58Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-10-12T05:50:58Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-10-12T05:50:58Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-10-12T05:50:58Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-10-12T05:50:58Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Enabled
+2022-10-12T05:50:58Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-10-12T05:51:54Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-CA.json, falling back to: en-US.json
+2022-10-12T05:51:54Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-12T05:51:54Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-10-12T05:51:56Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-10-12T05:51:56Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-12T05:51:56Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-10-12T05:51:56Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.1.0
+2022-10-12T05:51:56Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.2-dev-GIT_NOT_FOUND
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-10-12T05:51:57Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Enabled
+2022-10-12T05:51:57Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
