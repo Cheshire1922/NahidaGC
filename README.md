@@ -11,7 +11,7 @@ Thanks to Sakura616 for the RES, and few other chinese people sorry I forgot you
 -----------------------------  
 Ah also, make sure to patch your UserAssembly.dll  
 as for the game itself, I can't link it sorry  
-and no, this version will not be spamming you with "Kira go away"  
+and no, this version will not be spamming you with "Kira go away", which is why I decided to share this  
 (actually I don't know if there is a way to turn it off I haven't bothered trying)  
   
 # Known Issue  
