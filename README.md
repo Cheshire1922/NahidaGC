@@ -12,4 +12,8 @@ Thanks to Sakura616 for the RES, and few other chinese people sorry I forgot you
 Ah also, make sure to patch your UserAssembly.dll  
 as for the game itself, I can't link it sorry  
 and no, this version will not be spamming you with "Kira go away"  
-(actually I don't know if there is a way to turn it off I haven't bothered trying)
+(actually I don't know if there is a way to turn it off I haven't bothered trying)  
+  
+# Known Issue  
+1 Star weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)    
+![](https://cdn.discordapp.com/attachments/1027063731789770842/1029839860309168209/unknown.png)
