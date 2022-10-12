@@ -1,4 +1,4 @@
-# Nahida_GC
+# NahidaGC
  
 None of this was coded by me, I'm just reposting since I was able to set it up by myself  
   
