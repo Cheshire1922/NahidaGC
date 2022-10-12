@@ -15,5 +15,5 @@ and no, this version will not be spamming you with "Kira go away"
 (actually I don't know if there is a way to turn it off I haven't bothered trying)  
   
 # Known Issue  
-1 Star weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)    
+Weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)    
 ![](https://cdn.discordapp.com/attachments/1027063731789770842/1029839860309168209/unknown.png)
