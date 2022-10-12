@@ -7,7 +7,7 @@ Thanks to Sakura616 for the RES, and few other chinese people sorry I forgot you
   
 1. Make sure to have MongoDB Installed  
 2. Install FiddlerClassic as well  
-3. Run them and press on Start.cmd, if there are any issues you can open an Issue I guess, i'll try my best to help  
+3. Run them both, and press on Start.cmd, if there are any issues you can open an issue I guess, i'll try my best to help  
 -----------------------------  
 Ah also, make sure to patch your UserAssembly.dll  
 as for the game itself, I can't link it sorry  
