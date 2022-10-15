@@ -9,10 +9,10 @@ Thanks to Sakura616 for the RES, and few other chinese people sorry I forgot you
 2. Install FiddlerClassic as well  
 3. Run them both, and press on Start.cmd, if there are any issues you can open an issue I guess, i'll try my best to help  
 -----------------------------  
-Ah also, make sure to patch your UserAssembly.dll  
-as for the game itself, I can't link it sorry  
-and no, this version will not be spamming you with "Kira go away", which is why I decided to share this  
+-Make sure to patch your UserAssembly.dll  
+-This version will not be spamming you with "Kira go away", which is why I decided to share this  
 (actually I don't know if there is a way to turn it off I haven't bothered trying)  
+-As for the game itself, I can't link it sorry  
   
 # Known Issue  
 Weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)    
