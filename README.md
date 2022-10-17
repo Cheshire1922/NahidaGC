@@ -15,5 +15,6 @@ Thanks to Sakura616 for the RES, and few other chinese people sorry I forgot you
 -As for the game itself, I can't link it sorry  
   
 # Known Issue  
-Weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)    
+Weapons are glitched, simply changing weapon and exiting the menu *should* fix it(even if the weapon appears invisible)  
+I did some damage testing and everything seemed alright so...  
 ![](https://cdn.discordapp.com/attachments/1027063731789770842/1029839860309168209/unknown.png)
